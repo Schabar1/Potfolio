@@ -4,7 +4,7 @@ ______________________________________________________
 
 *luiz-schabarum-A2:
   - Trabalho de prog 2 em que desenvolvi um gerenciador de biblioteca virtual em C com senha;
-  - Executavel se chama: ./gbv <senha> <opção>  <biblioteca> [documentos];
+  - Executavel se chama: ./gbv senha opção biblioteca documentos;
   - -a : insere um ou mais documentos na biblioteca. Se já existir um documento com o mesmo nome, ele deve ser substituído;
   - -r : remove logicamente os documentos indicados (os dados permanecem no arquivo, mas o metadado é excluído);
   - -l : lista os documentos, exibindo: nome; tamanho em bytes; data de inserção; posição (offset) no container;
