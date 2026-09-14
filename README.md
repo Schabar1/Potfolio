@@ -20,5 +20,5 @@ ______________________________________________________
 *luiz_schabarum-A3:
   - Trabalho de prog 2 em que desenvolvi em C um jogo de sobrevivencia de plataforma, contendo menu de inicio e fim(derrota e vitória) e inimigos.
 
-*prova1_20254460:
-  - Trabalho de Algoritmos 3 de implementação de arvore B em C;
+*prova2_20254460:
+  - Trabalho de Algoritmos 3 de implementação de arvore B em C com remoção de nodos;
